@@ -7,12 +7,19 @@ The goal of this project was to practice real-world landing page design, layout 
 🚀 Features
 
 ✔ Modern Dark UI Design
+
 ✔ Product Hero Section with Call-to-Action
+
 ✔ Clean Navigation Bar
+
 ✔ Product Overview Section
+
 ✔ Specifications Section
+
 ✔ Product Style Variants Display
+
 ✔ Brand Integration Section (Apple, Spotify, Amazon, YouTube)
+
 ✔ Structured Footer Layout
 
 🧩 Sections Included
